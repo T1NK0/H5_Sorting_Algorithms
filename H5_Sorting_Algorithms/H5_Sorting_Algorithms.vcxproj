@@ -127,12 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="countSort.c" />
     <ClCompile Include="insertionSort.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="mergeSort.c" />
     <ClCompile Include="selectionSort.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="countSort.h" />
     <ClInclude Include="insertionSort.h" />
+    <ClInclude Include="mergeSort.h" />
     <ClInclude Include="selectionSort.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

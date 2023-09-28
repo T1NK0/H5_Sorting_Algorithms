@@ -24,12 +24,24 @@
     <ClCompile Include="insertionSort.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="mergeSort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="countSort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="selectionSort.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="insertionSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mergeSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="countSort.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
